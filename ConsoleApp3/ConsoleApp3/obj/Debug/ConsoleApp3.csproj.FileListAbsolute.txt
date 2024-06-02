@@ -1,0 +1,7 @@
+D:\pojects\С#\HM\29.05.2024\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\pojects\С#\HM\29.05.2024\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\pojects\С#\HM\29.05.2024\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\pojects\С#\HM\29.05.2024\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\pojects\С#\HM\29.05.2024\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\pojects\С#\HM\29.05.2024\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\pojects\С#\HM\29.05.2024\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
